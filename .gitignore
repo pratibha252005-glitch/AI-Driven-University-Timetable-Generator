@@ -54,3 +54,8 @@ coverage/
 # IDEs
 .vscode/
 .idea/
+
+# Redis binaries (Windows executables - use Docker or install separately)
+redis/*.exe
+redis/*.pdb
+redis/EventLog.dll
